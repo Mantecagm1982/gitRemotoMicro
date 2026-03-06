@@ -1,5 +1,3 @@
 Humus
 Zanahoria
-Gazpacho
-Coliflor
-Ensalada Caprese
+Guacamole
